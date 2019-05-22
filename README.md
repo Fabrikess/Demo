@@ -1,2 +1,4 @@
 # Demo
-This repository is for my training on GitHub
+Ce editeur de text, je ne l'aime pas du tout
+Je ne sais pas comment cela fonctionne.
+
